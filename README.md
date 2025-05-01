@@ -1,2 +1,2 @@
 # ifood-case
-Para rodar 
+Para rodar inicie com o ambiente virtual em python utilizando o arquivo com os requirements, requirements.txt. Comece baixando os dados em https://data-ar­chi­tect-test-source.s3.sa-east-1.ama­zon­aws.­com/ds-tech­ni­caleval­u­a­tion-da­ta.­tar.gz na pasta raw. Depois rode o notebook 1_data_processing.ipynb em notebooks, depois de concluído rode o notebook 2_modeling.ipynb
